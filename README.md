@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Computer sciences & medical sciences enthusiast<br>📚 Currently learning web development at EPSI online school<br>🎯 Continue to explore and learn a lot<br>🎲 Ex nurse in emergency unit</p>
+<p align="left">✨ Computer sciences & medical sciences enthusiast<br>📚 Currently learning web development at EPSI online school<br>🎯 Continue to explore and learn <br>🎲 Ex nurse in emergency unit</p>
 
 ###
 
