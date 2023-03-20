@@ -22,6 +22,6 @@
 
 ###
 
-<a href="https://app.daily.dev/cristelleal"><img src="https://api.daily.dev/devcards/dd6767c365e24a699d2b94d24eb6db08.png?r=9w5" width="400" alt="Cristelle A.'s Dev Card"/></a>
+<a href="https://app.daily.dev/cristelleal"><img src="https://api.daily.dev/devcards/dd6767c365e24a699d2b94d24eb6db08.png?r=9w5" width="200" alt="Cristelle A.'s Dev Card"/></a>
 
 ###
