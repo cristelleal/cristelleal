@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Cris and I'm from Bordeaux, FR.</p>
-<br>
+<p align="left">My name is Cris and I'm from Bordeaux, France.</p>
+
 <p align="left">✨ Computer sciences & medical sciences enthusiast<br>📚 Currently learning web development at EPSI online school<br>🎲 Ex nurse in emergency unit</p>
 
 ###
