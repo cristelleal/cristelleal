@@ -1,15 +1,15 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="center">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Cris and I'm from Bordeaux, France.</p>
+<p align="center">My name is Cris and I'm from Bordeaux, France.</p>
 
-<p align="left">✨ Computer sciences & medical sciences enthusiast<br>📚 Currently learning web development at EPSI online school<br>🎲 Ex nurse in emergency unit</p>
+<p align="center">✨ Computer sciences & medical sciences enthusiast<br>📚 Currently learning web development at EPSI online school<br>🎲 Ex nurse in emergency unit</p>
 
 ###
 
 <div>
- <div align="left">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristelleal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristelleal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
