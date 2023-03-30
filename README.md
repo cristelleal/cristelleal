@@ -4,7 +4,7 @@
 
 <p align="center">My name is Cris and I'm from Bordeaux, France.</p>
 
-<p align="center">✨ Computer sciences & medical sciences enthusiast <br>📚 Currently studying web development at EPSI online school<br>🚑 Worked as a nurse in emergency unit <br> 🔎 Love to learn and discover new things</p>
+<p align="center">✨ Computer science & medical science enthusiast <br>📚 Currently studying web development at EPSI online school<br>🚑 Worked as a nurse in emergency unit <br> 🔎 Love to learn and discover new things</p>
 
 ###
 ###
