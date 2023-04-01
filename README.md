@@ -1,13 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hubot+Sans&size=30&duration=4000&pause=1000&color=1C6C56&width=435&lines=Hello+everyone+!+)](https://git.io/typing-svg)
+# Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-###
-
+### About Me
 <p align="left">My name is Cris and I'm from Bordeaux, France.</p>
 
 <p align="left">✨ Computer science & medical science enthusiast <br>📚 Currently studying web development at EPSI online school<br>🚑 Worked as a nurse in emergency unit <br> 🔎 Love to learn and discover new things</p>
 
-###
-###
+### Languages
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 📈 Stats
 
 <div>
  <div align="left">
