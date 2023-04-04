@@ -3,7 +3,7 @@
 ### About Me
 <p align="left">My name is Cris and I'm from Bordeaux, France.</p>
 
-<p align="left">✨ Computer science & medical science enthusiast <br>📚 Currently studying web development at EPSI online school<br>🚑 Worked as a nurse in Emergency Room <br> 🔎 Love to learn and discover new things</p>
+<p align="left">• Computer science & medical science enthusiast <br>• Currently studying web development at EPSI online school<br>• Worked as an ER nurse<br> • Love to learn and discover new things</p>
 
 ### Languages
 
@@ -11,7 +11,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 📈 Stats
+### 
 
 <div>
  <div align="left">
